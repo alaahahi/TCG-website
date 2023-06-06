@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Sattot;Ahmad;Mohammad;Mr.;Asat
+FN:Mr. Ahmad Mohammad Sattot
+ORG:Techno Soft Gate
+TITLE:CTO & Consultant
+TEL;type=Mobile;waid=963932244631:+963 932 244 631
+item1.URL:https://www.technosoftgate.com
+item1.X-ABLabel:OTHER
+item2.URL:https://TechnoSoftGate.com
+item2.X-ABLabel:OTHER
+EMAIL;TYPE=Work:asattot@technosoftgate.com
+END:VCARD
