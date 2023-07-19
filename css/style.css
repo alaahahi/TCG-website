@@ -6,7 +6,15 @@
     --dark: #091E3E;
 }
 
+@font-face {
+    font-family: 'Saira';
+    src: url('../font/Saira-VariableFont_wdth,wght.ttf') format('truetype');
+    /* Add other font formats if needed (e.g., woff, woff2) */
+}
 
+body {
+    font-family: 'Saira', sans-serif;
+}
 .bg-primary {
     background-color: #003399 !important;
 }
